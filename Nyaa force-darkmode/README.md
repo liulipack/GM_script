@@ -10,7 +10,7 @@
 2. [点击此处](https://liulipack-script.oss-cn-hangzhou.aliyuncs.com/Nyaa%20force-darkmode/Nyaa%20force-darkmode-latest.user.js)，并安装脚本。
 
 ## Firefox
-1. 访问 [Tampermonkey](https://addons.mozilla.org/zh-CN/firefox/addon/greasemonkey/) 在 Firefox 的页面，并安装。
+1. 访问 [greasemonkey](https://addons.mozilla.org/zh-CN/firefox/addon/greasemonkey/) 在 Firefox 的页面，并安装。
 2. [点击此处](https://liulipack-script.oss-cn-hangzhou.aliyuncs.com/Nyaa%20force-darkmode/Nyaa%20force-darkmode-latest.user.js)，并安装脚本。
 
 # 原理
@@ -30,7 +30,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 3.0 Ch
 2. [Click here](https://liulipack-script.oss-cn-hangzhou.aliyuncs.com/Nyaa%20force-darkmode/Nyaa%20force-darkmode-latest.user.js) to install the script.
 
 ## Firefox
-1. Visit [Tampermonkey](https://addons.mozilla.org/zh-CN/firefox/addon/greasemonkey/) on the Firefox page and install it.
+1. Visit [greasemonkey](https://addons.mozilla.org/zh-CN/firefox/addon/greasemonkey/) on the Firefox page and install it.
 2. [Click here](https://liulipack-script.oss-cn-hangzhou.aliyuncs.com/Nyaa%20force-darkmode/Nyaa%20force-darkmode-latest.user.js) to install the script.
 
 # principle
