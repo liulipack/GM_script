@@ -7,11 +7,11 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 3.0 Ch
 
 ## Chrome
 1. Visit [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) on the Chrome page and install it.
-2. [Click here](https://liulipack-script.oss-cn-hangzhou.aliyuncs.com/moegirl%20Remove-shady/萌百-去黑幕-latest.use.js) to install the script.
+2. [Click here](https://liulipack-script.oss-cn-hangzhou.aliyuncs.com/archive/moegirl%20Remove-shady/萌百-去黑幕-latest.use.js) to install the script.
 
 ## Firefox
 1. Visit [Tampermonkey](https://addons.mozilla.org/zh-CN/firefox/addon/greasemonkey/) on the Firefox page and install it.
-2. [Click here](https://liulipack-script.oss-cn-hangzhou.aliyuncs.com/moegirl%20Remove-shady/萌百-去黑幕-latest.use.js) to install the script.
+2. [Click here](https://liulipack-script.oss-cn-hangzhou.aliyuncs.com/archive/moegirl%20Remove-shady/萌百-去黑幕-latest.use.js) to install the script.
 
 ---
 
@@ -24,8 +24,8 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 3.0 Ch
 
 ## Chrome
 1. 访问 [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) 在 Chrome 的页面，并安装。
-2. [点击此处](https://liulipack-script.oss-cn-hangzhou.aliyuncs.com/moegirl%20Remove-shady/萌百-去黑幕-latest.use.js)，并安装脚本。
+2. [点击此处](https://liulipack-script.oss-cn-hangzhou.aliyuncs.com/archive/moegirl%20Remove-shady/萌百-去黑幕-latest.use.js)，并安装脚本。
 
 ## Firefox
 1. 访问 [Tampermonkey](https://addons.mozilla.org/zh-CN/firefox/addon/greasemonkey/) 在 Firefox 的页面，并安装。
-2. [点击此处](https://liulipack-script.oss-cn-hangzhou.aliyuncs.com/moegirl%20Remove-shady/萌百-去黑幕-latest.use.js)，并安装脚本。
+2. [点击此处](https://liulipack-script.oss-cn-hangzhou.aliyuncs.com/archive/moegirl%20Remove-shady/萌百-去黑幕-latest.use.js)，并安装脚本。
