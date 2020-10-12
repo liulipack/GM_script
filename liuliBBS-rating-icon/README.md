@@ -14,7 +14,7 @@
 2. [点击此处](https://liulipack-script.oss-cn-hangzhou.aliyuncs.com/Nyaa%20force-darkmode/Nyaa%20force-darkmode-latest.user.js)，并安装脚本。
 
 # 原理
-遍历所有 `.author-rating-full` 并替换图标，与颜色。
+遍历 `.author-rating-full` 并替换图标，与颜色。
 
 ---
 
