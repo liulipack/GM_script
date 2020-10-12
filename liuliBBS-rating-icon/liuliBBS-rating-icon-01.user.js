@@ -10,11 +10,11 @@
 
 (function() {
     'use strict';
-    // 遍历换等级图标
+    // 遍历并换等级图标
     document.querySelectorAll('.author-rating-full').forEach((rating) => {
         rating.innerHTML = '<i class="fas fa-shield-alt"></i>'
     });
-    // 遍历换等级图标颜色
+    // 遍历并换等级图标颜色
     document.querySelectorAll('.author-rating-full').forEach((color) => {
         color.style.color = '#ff812d'
     });
