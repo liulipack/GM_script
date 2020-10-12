@@ -34,4 +34,4 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 3.0 Ch
 2. [Click here](https://liulipack-script.oss-cn-hangzhou.aliyuncs.com/Nyaa%20force-darkmode/Nyaa%20force-darkmode-latest.user.js) to install the script.
 
 # principle
-Each all `.author-rating-full` and replace the icons, and colors.
+Each `.author-rating-full` and replace the icons, and colors.
