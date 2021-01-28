@@ -13,7 +13,11 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 - 新内容
 	- [贤者时间·屏蔽(网站屏蔽) / Refractory-period·Block(Block-sites)](https://cdn.jsdelivr.net/gh/liulipack/GM_script/Block-sites/Block-sites-latest.user.js)
 	- [琉璃神社 社区换图标 / liuliBBS-rating-icon](https://cdn.jsdelivr.net/gh/liulipack/GM_script/liuliBBS-rating-icon/liuliBBS-rating-icon-01.user.js)
+		- 遍历 `.author-rating-full` 并替换图标，与颜色。
+		- Each `.author-rating-full` and replace the icons, and colors.
 	- [Nyaa 强制暗色样式 / Nyaa force-darkmode](https://github.com/liulipack/GM_script/tree/master/Nyaa%20orce-darkmode/Nyaa%20force-darkmode-01.user.js)
+		- 检测深色模式是否开启，如果未开启就开启它。
+		- Detect whether dark mode is enabled, and enable it if it is not enabled.
 - 归档旧内容
 	- [萌娘百科去黑幕](https://cdn.jsdelivr.net/gh/liulipack/GM_script/archive/moegirl-Remove-shady/萌百-去黑幕-0.4.user.js)
 	- [永硕 168 页面美化](https://cdn.jsdelivr.net/gh/liulipack/GM_script/archive/prettify-ys168/永硕%20168%20页面美化-0.4.user.js)
