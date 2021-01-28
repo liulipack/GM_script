@@ -16,4 +16,4 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 	- [Nyaa 强制暗色样式 / Nyaa force-darkmode](https://github.com/liulipack/GM_script/tree/master/Nyaa%20orce-darkmode/Nyaa%20force-darkmode-01.user.js)
 - 归档旧内容
 	- [萌娘百科去黑幕](https://cdn.jsdelivr.net/gh/liulipack/GM_script/archive/moegirl-Remove-shady/萌百-去黑幕-0.4.user.js)
-	- [永硕 168 页面美化](https://cdn.jsdelivr.net/gh/liulipack/GM_script/archive/prettify-ys168/永硕 168 页面美化-0.4.user.js)
+	- [永硕 168 页面美化](https://cdn.jsdelivr.net/gh/liulipack/GM_script/archive/prettify-ys168/永硕%20168%20页面美化-0.4.user.js)
