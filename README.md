@@ -3,7 +3,7 @@
 
 # 目录
 - 新内容
-	- [贤者时间·屏蔽(网站屏蔽) / Refractory-period·Block(Block-sites)](https://github.com/liulipack/GM_script/tree/master/Block%20sites)
+	- [贤者时间·屏蔽(网站屏蔽) / Refractory-period·Block(Block-sites)](https://github.com/liulipack/GM_script/tree/master/Block-sites)
 	- [琉璃神社 社区换图标 / liuliBBS-rating-icon](https://github.com/liulipack/GM_script/tree/master/liuliBBS-rating-icon)
 	- [Nyaa 强制暗色样式 / Nyaa force-darkmode](https://github.com/liulipack/GM_script/tree/master/Nyaa%20force-darkmode)
 - 归档旧内容
