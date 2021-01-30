@@ -9,11 +9,18 @@
     <meta name="renderer" content="ie-stand">
     <title>liulipack 的油猴脚本合集</title>
     <!-- 样式 -->
-    <link href="https://cdn.jsdelivr.net/npm/mdui@1.0.0/dist/css/mdui.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/mdui@1.0.0/dist/css/mdui.min.css" rel="stylesheet" integrity="sha384-2PJ2u4NYg6jCNNpv3i1hK9AoAqODy6CdiC+gYiL2DVx+ku5wzJMFNdE3RoWfBIRP" crossorigin="anonymous">
     <style>
     .mdui-btn {
         text-transform: none;
     }
+	@font-face {
+		font-family: "Noto Sans CJK SC";
+		src: url(https://cdn.jsdelivr.net/gh/googlefonts/noto-cjk/NotoSansCJKhk-Regular.otf) format('otf');
+	}
+	body {
+		font-family: "Noto Sans CJK SC", Helvetica, Microsoft Yahei, sans-serif;
+	}
     </style>
 </head>
 <body class="mdui-appbar-with-toolbar mdui-theme-primary-blue-grey mdui-theme-layout-dark">
@@ -31,7 +38,7 @@
 <!-- 容器 -->
 <div class="mdui-container">
     <!-- 等分列 -->
-    <div class="mdui-row-xs-1 mdui-row-sm-2 mdui-row-md-3 mdui-row-lg-3 mdui-row-lg-4 mdui-row-xl-5">
+    <div class="mdui-row-xs-1 mdui-row-sm-2 mdui-row-md-3 mdui-row-lg-4">
         <!-- Block-sites -->
         <div class="mdui-col mdui-m-t-2">
             <div class="mdui-card">
@@ -119,6 +126,18 @@
         </div>
     </div>
 </div>
+
+<!-- 脚本 -->
+<script src="https://cdn.jsdelivr.net/gh/desandro/masonry/dist/masonry.pkgd.min.js" integrity="sha384-GNFwBvfVxBkLMJpYMOABq3c+d3KnQxudP/mGPkzpZSTYykLBNsZEnG2D9G/X/+7D" crossorigin="anonymous"></script>
+<script>
+// 元素初始化
+var grid = document.querySelector('.mdui-row-xs-1');
+var msnry = new Masonry( grid, {
+	// 选项...
+	itemSelector: '.mdui-col',
+	horizontalOrder: true
+});
+</script>
 
 </body>
 </html>
