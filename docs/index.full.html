@@ -39,7 +39,7 @@
 <div class="mdui-progress">
     <div class="mdui-progress-indeterminate"></div>
 </div>
-<span class="JS-tips">请启用 JavaScript，拜托啦，这对我真的很重要！</span>
+<noscript>请启用 JavaScript，拜托啦，这对我真的很重要！</noscript>
 
 <!-- 容器 -->
 <div class="mdui-container mdui-invisible">
@@ -179,8 +179,7 @@ var grid = document.querySelector('.mdui-row-xs-1'),
     }),
     links = document.querySelectorAll('a'),
     CNTR = document.querySelector('.mdui-container'),
-    Prog = document.querySelector('.mdui-progress'),
-    JS_tips = document.querySelector('.JS-tips');
+    Prog = document.querySelector('.mdui-progress');
 
 // 给链接加属性
 links.forEach((link) => {
@@ -191,8 +190,7 @@ links.forEach((link) => {
 // 当记载完成后，显示`容器中的内容`，隐藏`进度指示器`和`启用 JS 提示`。
 window.onload = function() {
     CNTR.classList.remove('mdui-invisible');
-    Prog.classList.add('mdui-invisible');
-    JS_tips.classList.add('mdui-hidden');
+    Prog.classList.add('mdui-invisible')
 }
 </script>
 
