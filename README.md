@@ -11,6 +11,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 
 # 目录
 - 新内容
+	- [去除过渡动画 / No-transition](https://cdn.jsdelivr.net/gh/liulipack/GM_script/No-transition/No-transition-latest.user.js)
 	- [前端框架 CDN 替换 / framework CDN replace](https://cdn.jsdelivr.net/gh/liulipack/GM_script/framework%20CDN%20replace/framework%20CDN%20replace-latest.user.js)
 	- [贤者时间·屏蔽(网站屏蔽) / Refractory-period·Block(Block-sites)](https://cdn.jsdelivr.net/gh/liulipack/GM_script/Block-sites/Block-sites-latest.user.js)
 	- [琉璃神社 社区换图标 / liuliBBS-rating-icon](https://cdn.jsdelivr.net/gh/liulipack/GM_script/liuliBBS-rating-icon/liuliBBS-rating-icon-01.user.js)
