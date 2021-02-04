@@ -1,0 +1,16 @@
+{
+  "createBy": "http://liujiacai.net/gooreplacer/",
+  "version": "3.11.2",
+  "createAt": "2023/3/3 下午23:33:33",
+  "redirect-rules": [
+    {
+      "src": "http(s)?:\\/\\/(cdn|cdnjs|static|ajax|lib)\\.(bootcss|bootcdn|cloudflare|staticfile|googleapis|css|baomitu)\\.(com|cn|org|net)(/ajax/libs)?",
+      "kind": "regexp",
+      "dst": "https://mirror-cdnjs.oss-cn-hangzhou.aliyuncs.com",
+      "enable": true
+    }
+  ],
+  "cancel-rules": [],
+  "request-headers": [],
+  "response-headers": []
+}
